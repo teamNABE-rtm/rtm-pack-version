@@ -1,5 +1,5 @@
 train_sign:1.4.1
 station_sign:1.1.1
 railway_sign:1.0.1
-nabe-signal1:1.0.1
+nabe-signal1:2.0.0
 train_signG2:1.0.2
